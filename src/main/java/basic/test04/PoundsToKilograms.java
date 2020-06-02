@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class PoundsToKilograms {
     public static void main(String[] args) {
+        //4 Pounds to kilograms
         Scanner inputPound = new Scanner(System.in);
         System.out.println("Enter a number in pounds: ");
 
